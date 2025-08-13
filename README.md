@@ -4,6 +4,8 @@ This MATLAB project provides an interactive 3D simulation of a basketball shot. 
 
 The simulation features a detailed basketball court, manual and automatic aiming capabilities, and realistic physics modeling for bounces and flight paths.
 
+<img src="./assets/Canasta_UI.PNG" alt="Simulation UI" width="75%">
+
 ## Features
 
 - **Interactive 3D Visualization:** A fully rendered 3D basketball court, including the floor, backboard, hoop, and court lines.
